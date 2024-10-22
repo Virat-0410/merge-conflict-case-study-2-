@@ -1,3 +1,7 @@
 here is the master file
+<<<<<<< HEAD
 here is the latest update
+
+=======
 the feature added by feature1  branch
+>>>>>>> feature1
